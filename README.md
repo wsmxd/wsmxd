@@ -54,14 +54,9 @@
 
 ## GitHub Stats
 
-<div align=center>
-  <span>Public repositories: 9</span>
-  <span>Followers: 1</span>
-  <span>Following: 0</span>
-</div>
-
-<div align=center>
-  <span>Primary languages: Python, TypeScript, C#, Go</span>
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wsmxd&theme=transparent" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wsmxd&theme=transparent" alt="Top Languages" />
 </div>
 
 ## GitHub Activity
