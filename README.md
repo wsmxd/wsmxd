@@ -48,20 +48,18 @@
 ## Featured Projects
 
 - [feishubot](https://github.com/wsmxd/feishubot): 一个 agent 工具，使用 Python 构建
-- [my-blog](https://github.com/wsmxd/my-blog): 个人博客项目，已部署到 [Vercel](https://my-blog-five-red.vercel.app)
+- [my-blog](https://github.com/wsmxd/my-blog): 个人博客项目，当前域名为 [wsmxd.top](https://wsmxd.top)
 - [XiaoheiheMcpServer](https://github.com/wsmxd/XiaoheiheMcpServer): 小黑盒发帖子的 MCP 工具
 - [DtoGenerator](https://github.com/wsmxd/DtoGenerator): Roslyn DTO Generator
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wsmxd&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmxd&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wsmxd&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
+- Public repositories: 9
+- Followers: 1
+- Following: 0
+- Primary languages: Python, TypeScript, C#, Go
+- Recent focus: AI tools, MCP, blog building, .NET tooling
+- GitHub profile: [github.com/wsmxd](https://github.com/wsmxd)
 
 ## GitHub Activity
 
@@ -72,7 +70,7 @@
 ## Connect With Me
 
 - GitHub: [github.com/wsmxd](https://github.com/wsmxd)
-- Blog: [my-blog-five-red.vercel.app](https://my-blog-five-red.vercel.app)
+- Blog: [wsmxd.top](https://wsmxd.top)
 
 ---
 
