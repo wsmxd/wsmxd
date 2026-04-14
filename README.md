@@ -54,12 +54,15 @@
 
 ## GitHub Stats
 
-- Public repositories: 9
-- Followers: 1
-- Following: 0
-- Primary languages: Python, TypeScript, C#, Go
-- Recent focus: AI tools, MCP, blog building, .NET tooling
-- GitHub profile: [github.com/wsmxd](https://github.com/wsmxd)
+<div align=center>
+  <span>Public repositories: 9</span>
+  <span>Followers: 1</span>
+  <span>Following: 0</span>
+</div>
+
+<div align=center>
+  <span>Primary languages: Python, TypeScript, C#, Go</span>
+</div>
 
 ## GitHub Activity
 
