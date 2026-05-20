@@ -50,8 +50,7 @@
 - [feishubot](https://github.com/wsmxd/feishubot): 一个 agent 工具，使用 Python 构建
 - [my-blog](https://github.com/wsmxd/my-blog): 个人博客项目，当前域名为 [wsmxd.top](https://wsmxd.top)
 - [XiaoheiheMcpServer](https://github.com/wsmxd/XiaoheiheMcpServer): 小黑盒发帖子的 MCP 工具
-- [DtoGenerator](https://github.com/wsmxd/DtoGenerator): Roslyn DTO Generator
-
+- [Chat-Recall](https://github.com/wsmxd/Chat-Recall): 一个支持RAG的角色扮演的对话工具，支持多角色群组聊天
 ## GitHub Stats
 
 <div align="center">
